@@ -1,1 +1,1 @@
-alert("Hi Professor!! :D");
+alert("Hi word !! :D");
